@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter: Attach to Device",
+            "type": "dart",
+            "request": "attach"
+        },
+
+        {
+            "name": "梦绪",
+            "request": "launch",
+            "type": "dart",
+        }
+    ]
+}  
